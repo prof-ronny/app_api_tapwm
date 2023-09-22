@@ -8,6 +8,7 @@ const instancia = new Sequelize(
     config.get('mysql.senha'),
     {
         host: config.get('mysql.host'),
+        port:config.get('mysql.porta'),
         dialect: 'mysql'
     }
 )

@@ -1,9 +1,10 @@
 {
     "mysql":{
-        "banco-de-dados":"loja",
+        "banco-de-dados":"railway",
         "usuario":"root",
-        "senha":"123456",
-        "host":"localhost"
+        "senha":"HGof19rbiKn82k0iNZ9s",
+        "host":"containers-us-west-104.railway.app",
+        "porta":"5446"
 
     }
 }
