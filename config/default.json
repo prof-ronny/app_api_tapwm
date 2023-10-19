@@ -1,10 +1,10 @@
 {
     "mysql":{
-        "banco-de-dados":"railway",
-        "usuario":"root",
-        "senha":"HGof19rbiKn82k0iNZ9s",
-        "host":"containers-us-west-104.railway.app",
-        "porta":"5446"
+        "banco-de-dados":"db-styt7y875m90",
+        "usuario":"db-styt7y875m90",
+        "senha":"pwXwGKuFJ2PL5yrNwUcJ4Ndh",
+        "host":"up-pl-waw1-mysql-1.db.run-on-erla.com",
+        "porta":"11550"
 
     }
 }
