@@ -9,4 +9,4 @@ app.use(bodyParser.json())
 const roteador = require("../rotas/rotaproduto.js");
 app.use("/api/produtos",roteador);
 
-app.listen(3000,()=>{"Olá mundo"})
+app.listen(80,()=>{"Olá mundo"})
