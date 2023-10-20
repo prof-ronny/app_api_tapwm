@@ -2,6 +2,11 @@ const Sequelize = require('sequelize')
 const instancia = require('../banco_dados/index')
 
 const colunas = {
+    id: {
+        type: Sequelize.INTEGER,
+        autoIncrement: true,
+        primaryKey: true
+    },
     nome: {
         type: Sequelize.STRING,
         allowNull: false
