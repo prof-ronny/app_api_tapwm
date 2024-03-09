@@ -8,6 +8,8 @@ instancia.sync().then(() => console.log('Tabela criada com sucesso'))
 
 
 roteador.get("/", async (requisicao, resposta)=>{
+    
+
     resposta.send(
         JSON.stringify(await produtos.listar())
     )

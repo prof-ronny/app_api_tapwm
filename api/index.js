@@ -1,9 +1,10 @@
 const server = require('express')
 const app = server();
+const cors = require('cors');
 
 const bodyParser = require('body-parser');
 const config= require('config');
-
+app.use(cors());
 app.use(bodyParser.json())
 
 const roteador = require("../rotas/rotaproduto.js");
