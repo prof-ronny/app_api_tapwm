@@ -1,9 +1,9 @@
 {
     "mysql":{
-        "banco-de-dados":"db-styt7y875m90",
-        "usuario":"db-styt7y875m90",
-        "senha":"pwXwGKuFJ2PL5yrNwUcJ4Ndh",
-        "host":"up-pl-waw1-mysql-1.db.run-on-erla.com",
+        "banco-de-dados":"db_h1yrtlp3u264",
+        "usuario":"db_h1yrtlp3u264",
+        "senha":"AZyh1onN1a9ppUKK44qO1cYz",
+        "host":"up-de-fra1-mysql-1.db.run-on-seenode.com",
         "porta":"11550"
 
     }
